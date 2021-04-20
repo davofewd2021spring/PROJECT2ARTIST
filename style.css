@@ -1,0 +1,47 @@
+table, th ,td {border-style:solid;
+               width: 600px;
+              border-collapse: collapse;}
+table{width:auto} 
+iframe{width: 800px;
+        height: 651px;
+}
+.jah2{border-image: url(https://lh3.googleusercontent.com/proxy/Z3JQcc11UQ5DCbCcjy6mPLxL3BNqFbcACX8pRj1XtQhXIvmTlDfMDfQWzWF4Ev7S3R2NKhZk40BOXff9ZJPiXzvT);
+      border:transparent;
+      border-radius: 15px;
+      border-style:none;
+      font-size: 120%;}
+
+      
+ .pat{background-image: url(https://thumb.mp-farm.com/3196922/preview.jpg);}
+.pat1{background-image: url(https://cdn.pixabay.com/photo/2019/04/13/20/51/music-background-4125571_1280.jpg);}
+ .pat2{background-image: url(https://thumb.mp-farm.com/3196922/preview.jpg});}
+ .pat3{background-image:url(https://thumb.mp-farm.com/3196922/preview.jpg});}
+ .pat4{background-image: url(https://thumb.mp-farm.com/3196922/preview.jpg});}
+
+
+body{color:blueviolet;
+      font-size:x-large;
+      border: 10px;
+      padding: 15px;
+      border-radius: 10px;
+       border-style: dotted;}
+
+     
+.artistpro{display: flex;
+      flex-direction: row;
+      background: crimson;}
+
+ .artistpro > div {
+    background-color:cyan;
+     margin:10px ;
+     padding: 20px;
+     font-size: 30px;
+      }  
+
+   
+          
+
+
+
+
+
